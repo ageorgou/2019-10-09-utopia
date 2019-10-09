@@ -77,6 +77,7 @@ the pitch.
 {% elsif page.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
+Custom explanation. This is an imaginary workshop combining the Software Carpentry lessons with some parts of Data Carpentry.
 
 {% comment %}
 AUDIENCE
